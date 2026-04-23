@@ -10,11 +10,11 @@
 ---
 
 ## 🚀 关于我 (About Me)
-- 🔭 目前在做: **Awesome projects**
+- 🔭 目前在做: **Rutger-Snipper**
 - 🌱 正在学习: **AI and System Design**
 - 👯 寻求合作: **Open Source Tools**
 - 💬 问我关于: **Java & Python Backend**
-- 📫 如何联系我: **通过 GitHub 留言**
+- 📫 如何联系我: **roost.pellet.2j@icloud.com**
 - ⚡ 爱好/趣事: **Coding and exploring new tech**
 
 ---
