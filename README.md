@@ -17,7 +17,7 @@
 - 📫 How to reach me: **Via GitHub Issues**
 - ⚡ Fun fact: **Love coding and exploring new tech**
 
----
+
 
 ## 💻 Tech Stack
 <p align="center">
@@ -26,7 +26,7 @@
   </a>
 </p>
 
----
+
 
 ## 📊 GitHub Analytics
 <p align="center">
@@ -38,7 +38,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bowen1314&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages">
 </p>
 
----
+
 
 ## 🐍 Contribution Graph Snake
 <p align="center">
@@ -49,7 +49,7 @@
   </picture>
 </p>
 
----
+
 
 ## 🌐 Connect with me
 <p align="center">
