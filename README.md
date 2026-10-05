@@ -85,6 +85,15 @@
 
 
 
+## 🤖 AI Coding Usage
+<p align="center">
+  <a href="https://www.tokentracker.cc/u/09040545-5712-4fff-9c06-b054baf03d6f?ref=readme">
+    <img src="https://srctyff5.us-east.insforge.app/functions/tokentracker-embed-svg?user_id=09040545-5712-4fff-9c06-b054baf03d6f&theme=dark" alt="My AI coding usage on TokenTracker" width="600">
+  </a>
+</p>
+
+
+
 ## 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bowen1314&theme=tokyonight" alt="GitHub Stats" width="48%">
