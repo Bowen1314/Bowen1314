@@ -117,3 +117,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bowen1314&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 </p>
+
+
+[![My AI coding usage](https://srctyff5.us-east.insforge.app/functions/tokentracker-embed-svg?user_id=09040545-5712-4fff-9c06-b054baf03d6f&theme=dark)](https://www.tokentracker.cc/u/09040545-5712-4fff-9c06-b054baf03d6f?ref=readme)
