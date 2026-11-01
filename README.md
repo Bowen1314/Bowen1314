@@ -4,19 +4,14 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=CS+Student+%40+Rutgers;Full-stack+%26+AI+Builder;LLM+Inference+Tinkerer;Robotics+%26+Embedded+Hacker" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full-stack+%26+AI+Builder;LLM+Inference+Tinkerer;Robotics+%26+Embedded+Hacker" alt="Typing SVG" />
   </a>
 </p>
 
 
 
 ## 🚀 About Me
-- 🎓 CS student at **Rutgers University**, building full-stack & AI-powered apps
 - 🔭 Currently working on **[Sous](https://github.com/Bowen1314/Sous)** (a bilingual vLLM / SGLang deployment-command generator) and **[Neutoken BM Platform](https://github.com/Bowen1314/neutoken-bm-platform)** (an LLM benchmark console)
-- 🌱 Currently learning **LLM inference & serving** and **system design**
-- 🤖 Robotics background with **FTC Team 9121 Falcon Force** (robot code, team website)
-- 💬 Ask me about **vLLM / SGLang deployment**, **Next.js + Flask full-stack**, and **ESP32 embedded projects**
-- 📫 How to reach me: **Via GitHub Issues**
 
 
 
@@ -64,21 +59,6 @@
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
       <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js 16"><br>
       AI-driven detective mystery game: interrogate three suspects, each with independent dialogue history and a psychological-pressure system, in a dark glassmorphism UI.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/Bowen1314/9121-website">Falcon Force 9121 Website</a></b><br>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"><br>
-      Static marketing site for Falcon Force 9121, a FIRST Tech Challenge robotics team, live at <a href="https://falconforce.tech">falconforce.tech</a>.
-    </td>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/Bowen1314/Into-The-Deep">Into-The-Deep</a></b><br>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-      <img src="https://img.shields.io/badge/FTC-2024--2025-F57C00?style=flat-square" alt="FTC 2024-2025"><br>
-      Robot code for FTC Team 9121 Falcon Force, 2024-2025 "Into the Deep" season.
     </td>
   </tr>
 </table>
