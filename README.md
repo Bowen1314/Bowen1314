@@ -11,7 +11,7 @@
 
 
 ## 🚀 About Me
-- 🔭 Currently working on **[Sous](https://github.com/Bowen1314/Sous)** (a bilingual vLLM / SGLang deployment-command generator) and **[Neutoken BM Platform](https://github.com/Bowen1314/neutoken-bm-platform)** (an LLM benchmark console)
+- 🔭 Currently working on **[Inkdove](https://github.com/Bowen1314/inkdove)** (墨鸽): a self-hosted WhatsApp, LINE & Telegram workspace for export sales teams, with RAG-grounded AI reply drafts
 
 
 
@@ -29,36 +29,16 @@
 
 
 
-## ✨ Featured Projects
+## ✨ Featured Project
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/Bowen1314/Sous">Sous</a></b><br>
+    <td valign="top">
+      <b><a href="https://github.com/Bowen1314/inkdove">Inkdove 墨鸽</a></b><br>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-      <img src="https://img.shields.io/badge/vLLM_%2B_SGLang-4B8BBE?style=flat-square" alt="vLLM + SGLang"><br>
-      Bilingual (中/英) deployment-command generator that merges the official vLLM recipes and SGLang cookbook generators into one app: 164 models, 160 vLLM recipes, 23 SGLang deploy panels, 2 mamba-ratio calculators, and 160 guide docs translated to Chinese. Does not rewrite any engine code.
-    </td>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/Bowen1314/neutoken-bm-platform">Neutoken BM Platform</a></b><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
-      <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chart.js"><br>
-      LLM benchmark console and dashboard: accuracy benchmarks (AIME2025, HLE, SWE-Bench) vs official baselines, TTFT P50/P90 vs context-length charts, light/dark/system themes, password-gated access, server-side masked API keys, and live SSE log streaming.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/Bowen1314/Magic-Glove">Magic Glove</a></b><br>
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C">
-      <img src="https://img.shields.io/badge/ESP32--S3-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32-S3">
-      <img src="https://img.shields.io/badge/Bluetooth_LE-0082FC?style=flat-square&logo=bluetooth&logoColor=white" alt="Bluetooth LE"><br>
-      Wearable BLE air mouse + wireless keyboard on a Seeed XIAO ESP32-S3 with an MPU-6050 6-axis gyroscope, tactile buttons and buzzer feedback. Turns hand gestures into HID input.
-    </td>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/Bowen1314/ai-game">AI Interrogation Room</a></b><br>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-      <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js 16"><br>
-      AI-driven detective mystery game: interrogate three suspects, each with independent dialogue history and a psychological-pressure system, in a dark glassmorphism UI.
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+      <img src="https://img.shields.io/badge/RAG-6E40C9?style=flat-square" alt="RAG"><br>
+      Self-hosted WhatsApp, LINE & Telegram workspace for export sales teams: shared company accounts, customers assigned to each salesperson, and AI reply drafts grounded in your knowledge base via RAG (full-text + built-in vector search), sent only after human review.
     </td>
   </tr>
 </table>
